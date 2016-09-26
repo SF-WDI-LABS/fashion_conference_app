@@ -55,10 +55,9 @@ Lab Goals:
   * `app/models/speaker.rb`
   * `db/migrate/1234566789_create_speakers.rb`
 
-  And take another look at your updated `db/schema.rb`!
 
 
-  Stop and commit. Then run `git diff` to see what changed.
+  Run `git diff` to see what changed. Then stop and commit.
 
 1. **Set up the database.**
   Next, create your application database:
@@ -81,7 +80,7 @@ Lab Goals:
     Each task has a description, and should help you find the thing you need.
   </details>
   
-  Stop and commit! Then run `git diff` to see what changed.
+  Run `git diff` to see what changed. Then stop and commit!
 
 1. **Launch the Rails console.**
 
