@@ -36,6 +36,7 @@ Lab Goals:
 
   Stop and commit!
   ``` bash
+  git init # since this is a brand new directory, need to initialize git repo
   git add . -A # add everything
   git commit -m "inital commit, rails application boilerplate"
   ```
